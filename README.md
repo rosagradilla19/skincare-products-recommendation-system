@@ -6,7 +6,7 @@ Although some consumers might be attracted to a product based on the brand or ma
 
 In this project, I created a content-based recommendation system where the 'content' is the ingredients of cosmetics. Specifically, I processed ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualized ingredient similarity using a machine learning method called t-SNE.
 
-t-SNE or t-distributed stochastic neighbor embedding is an unsupervised machine learning methos to find a low-dimensional representation of data. This representation, or embedding is then used to find similar products
+t-SNE or t-distributed stochastic neighbor embedding is an unsupervised machine learning method to find a low-dimensional representation of the data. This representation, or embedding is then used to find similar products
 
 The data contains more than 1,400 products in 5 different categories:
 
