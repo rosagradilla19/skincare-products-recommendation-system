@@ -1,4 +1,4 @@
-# Reccommendation System for Skin Care Products based on Ingredients
+# Recommendation System for Skin Care Products based on Ingredients
 
 For this project I developed a recommendation system for skin care products based on ingredients.
 
