@@ -1,5 +1,11 @@
 # Recommendation System for Skin Care Products based on Ingredients
 
+## Usage
+
+after you clone the repository, simply run:
+
+> streamlit run comparing-skincare.py
+
 For this project I developed a recommendation system for skin care products based on ingredients.
 
 Although some consumers might be attracted to a product based on the brand or marketing techniques I am a firm believer that ingredients are the most important thing to consider when purchasing a skin care product. I am personally very interested in skin care and whenever I wanted to try a new product I would find myself looking at the ingredient list and googling every ingredient I did not recognize. This is of course very time consuming so I decided to create a recommendation system based on ingredients.
@@ -22,8 +28,3 @@ The app looks like this:
 
 ![](images/image1.jpg)
 
-## Usage
-
-after you clone the repository, simply run:
-
-> streamlit run comparing-skincare.py
