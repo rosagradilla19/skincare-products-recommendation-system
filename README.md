@@ -17,7 +17,8 @@ The data contains more than 1,400 products in 5 different categories:
 - Eye cream
 - Sun protection
 
-I created an app with streamlit to make it interactive:
+I created an app with with streamlit to make it interactive for the user.
+The app looks like this:
 
 ![](images/image1.jpg)
 
