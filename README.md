@@ -19,4 +19,4 @@ The data contains more than 1,400 products in 5 different categories:
 
 I created an app with streamlit to make it interactive:
 
-![](images/image.png)
+![](images/image1.jpg)
