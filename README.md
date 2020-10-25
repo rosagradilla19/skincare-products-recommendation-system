@@ -20,3 +20,9 @@ The data contains more than 1,400 products in 5 different categories:
 I created an app with streamlit to make it interactive:
 
 ![](images/image1.jpg)
+
+## Usage
+
+after you clone the repository, simply run:
+
+> streamlit run comparing-skincare.py
