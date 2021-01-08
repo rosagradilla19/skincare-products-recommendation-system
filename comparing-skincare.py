@@ -12,7 +12,7 @@ st.write("Hi there! :wave: If you have a skincare product you currently like I c
 st.write('Please select a product below so I can recommend similar ones :relieved:')
 st.write('My dataset contains 1400+ products :star2: but unfortunately it is possible that I do not have the product you are looking for :disappointed:')
 # Load the data
-df = pd.read_csv("/Users/rosagradilla/Documents/Projects/data/cosmetics.csv")
+df = pd.read_csv("./data/cosmetics.csv")
 
 # Choose a product category
 category = st.selectbox(label='Select a product category', options= df['Label'].unique() )
