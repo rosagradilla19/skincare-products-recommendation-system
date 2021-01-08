@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run stremalit_app.py
+web: sh setup.sh && streamlit run comparing-skincare.py
